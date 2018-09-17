@@ -1,6 +1,4 @@
-package com.chovy.spark
-
-import org.apache.spark.{SparkConf, SparkContext}
+package com.chovy.spark.commontransformOpt
 
 object PairRdd {
 

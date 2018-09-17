@@ -1,7 +1,6 @@
-package com.chovy.spark
+package com.chovy.spark.commontransformOpt
 
-
-import org.apache.spark.{Partitioner,SparkContext,SparkConf}
+import org.apache.spark.Partitioner
 class UsridPartitioner(numParts:Int) extends Partitioner {
 
   override def numPartitions: Int = numParts
