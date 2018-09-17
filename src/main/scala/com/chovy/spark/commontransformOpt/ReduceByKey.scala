@@ -1,5 +1,7 @@
 package com.chovy.spark.commontransformOpt
 
+import org.apache.spark.{SparkConf, SparkContext}
+
 object ReduceByKey {
   def main(arg:Array[String])={
 
