@@ -1,4 +1,4 @@
-package com.chovy.spark.sharedvariables
+package com.chovy.spark.RDD.sharedvariables
 
 import org.apache.spark.{SparkConf, SparkContext}
 

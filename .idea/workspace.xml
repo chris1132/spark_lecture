@@ -7,53 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07852cdc-ff36-43db-a491-f69c6d3d409c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/CaseOne.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/MapValuesAndJoin.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/sharedvariables/CaseOne.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/fileoption/JsonOption.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/PairRdd.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/PairRdd.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/ReduceByKey.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/ReduceByKey.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$$anonfun$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/CompareGroupKAndReduceK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/GroupByKey$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/GroupByKey$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/GroupByKey$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/GroupByKey$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/GroupByKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/MySparkFirst$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/MySparkFirst$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/MySparkFirst$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/MySparkFirst$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/MySparkFirst$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/MySparkFirst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/PairRdd$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/PairRdd$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/PairRdd$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/PairRdd$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/PairRdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/ReduceByKey$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/ReduceByKey$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/ReduceByKey$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/ReduceByKey$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/ReduceByKey$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/ReduceByKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/Test$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/Test$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/Test$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chovy/spark/UsridPartitioner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,43 +23,47 @@
     <session id="2084499061">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.172" value="1" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.36" value="3" />
           <entry key="project.open.time.37" value="2" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="scala" value="3617" />
-          <entry key="txt" value="14" />
-          <entry key="xml" value="39" />
+          <entry key="scala" value="4558" />
+          <entry key="txt" value="49" />
+          <entry key="xml" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Scala" value="3617" />
-          <entry key="XML" value="39" />
+          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="Scala" value="4558" />
+          <entry key="XML" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="scala" value="29" />
-          <entry key="xml" value="1" />
+          <entry key="scala" value="40" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="Scala" value="29" />
-          <entry key="XML" value="1" />
+          <entry key="Scala" value="40" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -114,11 +74,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/sharedvariables/CaseOne.scala">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/fileoption/JsonOption.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="90">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#36#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/ReduceByKey.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/Test.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -155,10 +145,11 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/Test.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/PairRdd.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/ReduceByKey.scala" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/MapValuesAndJoin.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/CaseOne.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/sharedvariables/CaseOne.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/fileoption/JsonOption.scala" />
       </list>
     </option>
   </component>
@@ -189,29 +180,13 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="spark_lecture" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spark_lecture" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spark_lecture" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spark_lecture" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="742" />
-    <option name="y" value="55" />
+    <option name="x" value="634" />
+    <option name="y" value="40" />
     <option name="width" value="955" />
     <option name="height" value="815" />
   </component>
@@ -222,6 +197,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,13 +236,21 @@
               <item name="spark_lecture" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="commontransformOpt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark_lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,13 +276,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CaseOne (1)">
+  <component name="RunManager" selected="Application.JsonOption">
     <configuration name="CaseOne (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.sharedvariables.CaseOne" />
+      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.RDD.sharedvariables.CaseOne" />
       <module name="spark_lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chovy.spark.sharedvariables.*" />
+          <option name="PATTERN" value="com.chovy.spark.RDD.sharedvariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,11 +291,11 @@
       </method>
     </configuration>
     <configuration name="CaseOne" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.commontransformOpt.CaseOne" />
+      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.RDD.commontransformOpt.CaseOne" />
       <module name="spark_lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chovy.spark.commontransformOpt.*" />
+          <option name="PATTERN" value="com.chovy.spark.RDD.commontransformOpt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareGroupKAndReduceK" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.commontransformOpt.CompareGroupKAndReduceK" />
+    <configuration name="JsonOption" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.RDD.fileoption.JsonOption" />
       <module name="spark_lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chovy.spark.commontransformOpt.*" />
+          <option name="PATTERN" value="com.chovy.spark.RDD.fileoption.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +317,11 @@
       </method>
     </configuration>
     <configuration name="MapValuesAndJoin" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.commontransformOpt.MapValuesAndJoin" />
+      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.RDD.commontransformOpt.MapValuesAndJoin" />
       <module name="spark_lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chovy.spark.commontransformOpt.*" />
+          <option name="PATTERN" value="com.chovy.spark.RDD.commontransformOpt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,11 +330,11 @@
       </method>
     </configuration>
     <configuration name="PairRdd" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.commontransformOpt.PairRdd" />
+      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.RDD.commontransformOpt.PairRdd" />
       <module name="spark_lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chovy.spark.commontransformOpt.*" />
+          <option name="PATTERN" value="com.chovy.spark.RDD.commontransformOpt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,18 +344,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.PairRdd" />
-      <item itemvalue="Application.CompareGroupKAndReduceK" />
       <item itemvalue="Application.MapValuesAndJoin" />
       <item itemvalue="Application.CaseOne" />
       <item itemvalue="Application.CaseOne (1)" />
+      <item itemvalue="Application.JsonOption" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JsonOption" />
         <item itemvalue="Application.CaseOne (1)" />
         <item itemvalue="Application.CaseOne" />
         <item itemvalue="Application.MapValuesAndJoin" />
         <item itemvalue="Application.PairRdd" />
-        <item itemvalue="Application.CompareGroupKAndReduceK" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +379,11 @@
       <workItem from="1536910445106" duration="3269000" />
       <workItem from="1537145347691" duration="6262000" />
       <workItem from="1537160760320" duration="4332000" />
-      <workItem from="1537169217744" duration="3257000" />
+      <workItem from="1537169217744" duration="4327000" />
+      <workItem from="1537232766316" duration="4233000" />
+      <workItem from="1537241673917" duration="4014000" />
+      <workItem from="1537317394074" duration="2523000" />
+      <workItem from="1537334367964" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="spark_lecture">
       <created>1536901874457</created>
@@ -411,16 +399,23 @@
       <option name="project" value="LOCAL" />
       <updated>1536913896947</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mapvalues join 数据共享">
+      <created>1537173180398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537173180398</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45241000" />
+    <option name="totallyTimeSpent" value="57095000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="742" y="55" width="955" height="815" extended-state="0" />
+    <frame x="590" y="59" width="955" height="815" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28587076" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29572836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -429,7 +424,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28695652" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28695652" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -439,7 +434,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32863188" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.276" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.2753623" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -459,7 +454,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="spark_lecture" />
     <MESSAGE value="reduceByKey mapValues" />
-    <option name="LAST_COMMIT_MESSAGE" value="reduceByKey mapValues" />
+    <MESSAGE value="mapvalues join 数据共享" />
+    <option name="LAST_COMMIT_MESSAGE" value="mapvalues join 数据共享" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/package.scala" />
@@ -484,52 +480,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/PairRdd.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/GroupByKey.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/CompareGroupKAndReduceK.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/UsridPartitioner.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/GroupByKey.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/MySparkFirst.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/PairRdd.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/ReduceByKey.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -544,9 +498,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="e#44#75#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/sharedvariables/CaseOne.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/UsridPartitioner.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/MySparkFirst.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -557,10 +529,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/sharedvariables/CaseOne.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/PairRdd.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="255">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/fileoption/JsonOption.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#36#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/commontransformOpt/ReduceByKey.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package com.chovy.spark.commontransformOpt
+package com.chovy.spark.RDD.commontransformOpt
 
 import org.apache.spark.Partitioner
 class UsridPartitioner(numParts:Int) extends Partitioner {
