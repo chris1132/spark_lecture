@@ -1,5 +1,8 @@
 package com.chovy.spark.DataFrame
 
+/**
+  * 利用反射机制推断RDD
+  * */
 import org.apache.spark.sql.{Encoder, SparkSession}
 object CaseSecond {
 

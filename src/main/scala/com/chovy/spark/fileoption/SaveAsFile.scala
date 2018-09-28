@@ -1,4 +1,4 @@
-package com.chovy.spark.RDD.fileoption
+package com.chovy.spark.fileoption
 
 import org.apache.spark.sql.SparkSession
 

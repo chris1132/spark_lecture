@@ -1,4 +1,4 @@
-package com.chovy.spark.RDD.fileoption
+package com.chovy.spark.fileoption
 
 import org.apache.spark.sql.SparkSession
 
@@ -23,6 +23,7 @@ object Parquet {
 
     nameDF.foreach(e=>println("name:"+e(0)+"|color:"+e(1)))
 
+//    parquetDF.write.parquet("file:///usr/local/spark/MyFile/newpeople.parquet")
 
   }
 }
