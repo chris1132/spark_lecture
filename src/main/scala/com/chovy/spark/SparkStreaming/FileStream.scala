@@ -3,7 +3,7 @@ package com.chovy.spark.SparkStreaming
 import org.apache.spark.SparkConf
 import org.apache.spark.streaming.{Seconds, StreamingContext}
 
-object CaseOne {
+object FileStream {
 
   def main(args:Array[String]):Unit={
 

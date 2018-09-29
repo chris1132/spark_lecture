@@ -7,19 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07852cdc-ff36-43db-a491-f69c6d3d409c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/TestInterFaceChild.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/RDDQueueStream.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/SocketSream.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/StreamingExamples.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/DataFrame/CaseSecond.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/DataFrame/CaseSecond.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/DataFrame/CaseThird.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/DataFrame/CaseThird.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/CaseOne.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/CaseOne.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/fileoption/JsonOption.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/fileoption/JsonOption.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/fileoption/Parquet.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/fileoption/Parquet.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/fileoption/SaveAsFile.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/fileoption/SaveAsFile.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/mysql/MySqlConnect.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/mysql/MySqlConnect.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/mysql/WriteData2Mysql.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/mysql/WriteData2Mysql.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/CaseOne.scala" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,29 +39,30 @@
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.52" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="37" />
           <entry key="properties" value="5" />
-          <entry key="scala" value="9036" />
-          <entry key="txt" value="71" />
+          <entry key="scala" value="10122" />
+          <entry key="txt" value="95" />
           <entry key="xml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="37" />
-          <entry key="PLAIN_TEXT" value="71" />
+          <entry key="PLAIN_TEXT" value="95" />
           <entry key="Properties" value="5" />
-          <entry key="Scala" value="9036" />
+          <entry key="Scala" value="10122" />
           <entry key="XML" value="41" />
         </counts>
       </usages-collector>
@@ -76,7 +71,7 @@
           <entry key="class" value="5" />
           <entry key="java" value="2" />
           <entry key="properties" value="1" />
-          <entry key="scala" value="64" />
+          <entry key="scala" value="69" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
@@ -85,7 +80,7 @@
           <entry key="CLASS" value="5" />
           <entry key="JAVA" value="2" />
           <entry key="Properties" value="1" />
-          <entry key="Scala" value="64" />
+          <entry key="Scala" value="69" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -97,11 +92,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/CaseOne.scala">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/SocketSream.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="102">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#40#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/RDDQueueStream.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
               <folding>
                 <element signature="e#40#73#0" expanded="true" />
               </folding>
@@ -164,6 +171,13 @@
         <option value="$PROJECT_DIR$/src/main/java/TestInterFaceChild.java" />
         <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/mysql/MySqlConnect.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/CaseOne.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/filestream.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/FileStream.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/SocketS.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/StreamingExamples.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/SocketSream.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/RDDStream.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/RDDQueueStream.scala" />
       </list>
     </option>
   </component>
@@ -199,8 +213,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="701" />
-    <option name="y" value="42" />
+    <option name="x" value="736" />
+    <option name="y" value="70" />
     <option name="width" value="960" />
     <option name="height" value="809" />
   </component>
@@ -210,8 +224,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,12 +264,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkStreaming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,26 +297,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CaseOne (1)">
+  <component name="RunManager" selected="Application.RDDQueueStream">
     <configuration name="CaseOne (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.SparkStreaming.CaseOne" />
+      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.SparkStreaming.FileStream" />
       <module name="spark_lecture" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.chovy.spark.SparkStreaming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CaseThird" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.DataFrame.CaseThird" />
-      <module name="spark_lecture" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chovy.spark.DataFrame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +324,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaveAsFile" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.fileoption.SaveAsFile" />
+    <configuration name="RDDQueueStream" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.SparkStreaming.RDDQueueStream" />
       <module name="spark_lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chovy.spark.fileoption.*" />
+          <option name="PATTERN" value="com.chovy.spark.SparkStreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketSream" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.chovy.spark.SparkStreaming.SocketSream" />
+      <module name="spark_lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chovy.spark.SparkStreaming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,19 +364,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CaseThird" />
-      <item itemvalue="Application.SaveAsFile" />
       <item itemvalue="Application.Parquet" />
       <item itemvalue="Application.WriteData2Mysql" />
       <item itemvalue="Application.CaseOne (1)" />
+      <item itemvalue="Application.SocketSream" />
+      <item itemvalue="Application.RDDQueueStream" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RDDQueueStream" />
+        <item itemvalue="Application.SocketSream" />
         <item itemvalue="Application.CaseOne (1)" />
         <item itemvalue="Application.WriteData2Mysql" />
         <item itemvalue="Application.Parquet" />
-        <item itemvalue="Application.SaveAsFile" />
-        <item itemvalue="Application.CaseThird" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +410,8 @@
       <workItem from="1537922608373" duration="1579000" />
       <workItem from="1538014473610" duration="2870000" />
       <workItem from="1538095186107" duration="2394000" />
-      <workItem from="1538098416364" duration="1852000" />
+      <workItem from="1538098416364" duration="4222000" />
+      <workItem from="1538181011595" duration="8888000" />
     </task>
     <task id="LOCAL-00001" summary="spark_lecture">
       <created>1536901874457</created>
@@ -433,16 +448,23 @@
       <option name="project" value="LOCAL" />
       <updated>1537520329339</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="spark streaming &amp; mysql">
+      <created>1538100723848</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538100723848</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87677000" />
+    <option name="totallyTimeSpent" value="98935000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="701" y="42" width="960" height="809" extended-state="0" />
+    <frame x="736" y="70" width="960" height="809" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31045753" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31699347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -451,7 +473,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28654972" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25877193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,7 +483,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32863188" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.25066668" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -483,7 +505,8 @@
     <MESSAGE value="reduceByKey mapValues" />
     <MESSAGE value="mapvalues join 数据共享" />
     <MESSAGE value="dataframe" />
-    <option name="LAST_COMMIT_MESSAGE" value="dataframe" />
+    <MESSAGE value="spark streaming &amp; mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="spark streaming &amp; mysql" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/package.scala" />
@@ -680,10 +703,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/CaseOne.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/SocketS.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/FileStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#40#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/StreamingExamples.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="e#40#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/SocketSream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#40#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/chovy/spark/SparkStreaming/RDDQueueStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
           <folding>
             <element signature="e#40#73#0" expanded="true" />
           </folding>
