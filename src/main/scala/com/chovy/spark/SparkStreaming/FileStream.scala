@@ -15,7 +15,7 @@ object FileStream {
 
     ssc.sparkContext.setLogLevel("Error")
 
-    val lines = ssc.textFileStream("file:///usr/local/spark/mycode/streaming/logfile")
+    val lines = ssc.textFileStream("file:///usr/local/spark/MyFile/streaming/logfile")
 
     val words = lines.flatMap(_.split(" "))
 
