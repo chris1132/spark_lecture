@@ -2,6 +2,7 @@ package com.chovy.spark.SparkStreaming.kafka
 
 import org.apache.commons.codec.StringDecoder
 import org.apache.kafka.common.serialization.StringDeserializer
+import org.apache.spark.streaming.Minutes
 import org.apache.spark.streaming.kafka010.{ConsumerStrategies, KafkaUtils}
 import org.apache.spark.streaming.kafka010.LocationStrategies.PreferConsistent
 import org.apache.spark.streaming.kafka010.ConsumerStrategies.Subscribe
@@ -28,6 +29,7 @@ object KafkaWordCount {
     val worldCount = lines.flatMap(e=>{
       e.split(" ").map((_,1))
     }).reduceByKey(_+_)
+
 
     worldCount.print()
 
